@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeskClock</string>
+    <string name="wel_note">DeskClock</string>
+    <string name="action_settings">Settings</string>
+    <string name="foot_note">This app is designed by Syed Abdullah</string>
+
+</resources>
